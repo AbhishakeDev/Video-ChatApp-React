@@ -1,8 +1,8 @@
 # React Video Chat App
 
-## This app has been built using Node.js , ReactJS ad=nd Socket.io
+## This app has been built using Node.js , ReactJS and Socket.io
 
-# Deployed version of the website :: 
+## Deployed version of the website :: 
 Open [https://rover-video.netlify.app/](https://rover-video.netlify.app/)
 
 ### Deployed Backend
